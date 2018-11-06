@@ -1,0 +1,32 @@
+.circulo {
+
+      width:150px;
+      height:150px;
+      border-radius:80px;
+      border:5px solid #FFFFFF;
+      position:relative;
+      top:20px ;
+      bottom: ;
+      right: ;
+      left:580px ;
+
+    }
+
+body {
+       background:url(../imagenes/fondo3.jpg);
+       background-repeat:no-repeat;
+       background-attachment: scroll;
+
+
+    }
+
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+p#texto{
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+  width: 150px;
+
+  margin: 0px auto;
+  padding: 20px;
+}
